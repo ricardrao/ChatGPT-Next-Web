@@ -525,6 +525,7 @@ const openaiModels = [
   "gpt-5-chat-2025-01-01-preview",
   "gpt-5.4",
   "gpt-5.4-pro",
+  "gpt-5.5",
   "gpt-4o",
   "gpt-4o-2024-05-13",
   "gpt-4o-2024-08-06",
